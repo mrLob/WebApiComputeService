@@ -1,0 +1,8 @@
+/home/mister/dotNetProjects/AspCoreEperiment/bin/Debug/netcoreapp1.1/AspCoreEperiment.deps.json
+/home/mister/dotNetProjects/AspCoreEperiment/bin/Debug/netcoreapp1.1/AspCoreEperiment.runtimeconfig.json
+/home/mister/dotNetProjects/AspCoreEperiment/bin/Debug/netcoreapp1.1/AspCoreEperiment.runtimeconfig.dev.json
+/home/mister/dotNetProjects/AspCoreEperiment/bin/Debug/netcoreapp1.1/AspCoreEperiment.dll
+/home/mister/dotNetProjects/AspCoreEperiment/bin/Debug/netcoreapp1.1/AspCoreEperiment.pdb
+/home/mister/dotNetProjects/AspCoreEperiment/obj/Debug/netcoreapp1.1/AspCoreEperiment.AssemblyInfo.cs
+/home/mister/dotNetProjects/AspCoreEperiment/obj/Debug/netcoreapp1.1/AspCoreEperiment.dll
+/home/mister/dotNetProjects/AspCoreEperiment/obj/Debug/netcoreapp1.1/AspCoreEperiment.pdb
