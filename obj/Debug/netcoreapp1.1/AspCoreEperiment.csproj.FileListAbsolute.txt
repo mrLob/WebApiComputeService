@@ -6,3 +6,11 @@
 /home/mister/dotNetProjects/AspCoreEperiment/obj/Debug/netcoreapp1.1/AspCoreEperiment.AssemblyInfo.cs
 /home/mister/dotNetProjects/AspCoreEperiment/obj/Debug/netcoreapp1.1/AspCoreEperiment.dll
 /home/mister/dotNetProjects/AspCoreEperiment/obj/Debug/netcoreapp1.1/AspCoreEperiment.pdb
+/home/mister/VS_projects/WebApiComputeService/bin/Debug/netcoreapp1.1/AspCoreEperiment.deps.json
+/home/mister/VS_projects/WebApiComputeService/bin/Debug/netcoreapp1.1/AspCoreEperiment.runtimeconfig.json
+/home/mister/VS_projects/WebApiComputeService/bin/Debug/netcoreapp1.1/AspCoreEperiment.runtimeconfig.dev.json
+/home/mister/VS_projects/WebApiComputeService/bin/Debug/netcoreapp1.1/AspCoreEperiment.dll
+/home/mister/VS_projects/WebApiComputeService/bin/Debug/netcoreapp1.1/AspCoreEperiment.pdb
+/home/mister/VS_projects/WebApiComputeService/obj/Debug/netcoreapp1.1/AspCoreEperiment.AssemblyInfo.cs
+/home/mister/VS_projects/WebApiComputeService/obj/Debug/netcoreapp1.1/AspCoreEperiment.dll
+/home/mister/VS_projects/WebApiComputeService/obj/Debug/netcoreapp1.1/AspCoreEperiment.pdb
