@@ -25,16 +25,18 @@ namespace AspCoreEperiment.Controllers
             return dbContext.PurchaseItems.Find(id);
         }
         
-        // POST api/values
+        // POST api/purchase
         [HttpPost]
-        public void Post([FromBody]string value)
+        public void Post([FromBody] PurchaseItem value)
         {
-            PurchaseItem newItem = new PurchaseItem();
-            newItem.Name = "Orange Pi Lite";
-            newItem.Count = 2;
-            newItem.Price = 1;
-            dbContext.PurchaseItems.Add(newItem);
-            dbContext.SaveChanges();
+            if(value != null){
+                PurchaseItem newItem = new PurchaseItem();
+                newItem.Name = value.Name;
+                newItem.Count = value.Count;
+                newItem.Price = value.Price;
+                dbContext.PurchaseItems.Add(newItem);
+                dbContext.SaveChanges();
+            }
         }
 
         // PUT api/values/5
